@@ -1,0 +1,7 @@
+Temperature,Humidity,Rainfall,Wind Speed,Pressure,Location,Flood
+29.0,78,0.0,8.0,1009,Station_A,0
+27.5,82,12.0,5.0,1007,Station_B,1
+30.1,75,0.0,10.0,1010,Station_C,0
+25.0,90,45.0,12.0,1005,Station_A,1
+28.2,80,5.0,7.0,1008,Station_B,0
+26.5,85,22.0,9.0,1006,Station_C,1
